@@ -13,10 +13,10 @@ title                    : "Shenwx's Homepage"
 title_separator          : "-"
 name                     : &name "Wenxuan Shen"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://p114514.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://p114514-new.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://p114514.github.io"
+repository               : "https://p114514-new.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -35,7 +35,7 @@ author:
   orcid            : "https://orcid.org/0009-0005-7501-0750"
 
   # Repositories and software development
-  github           : "https://github.com/p114514?tab=repositories" 
+  github           : "https://github.com/p114514-new?tab=repositories" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
