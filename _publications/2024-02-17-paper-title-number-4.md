@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Multi-group Particle Swarm Optimization with K-means Gap Filling for Finding Gamma Knife Treatment Plans"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/gamma-knife-treatment-plans
+excerpt: "The sphere packing problem (SPP) is a geometric optimization problem which is NP-hard. It seeks to find the most efficient arrangement of non-overlapping spheres within a containing space to maximize the total volume or the fraction of the containing space occupied by the spheres. As an extension of SPP, Gamma knife treatment (GKT) is a significant technique in the field of stereotactic radiosurgery, which uses Gamma rays to perform single-shot high-dose focused irradiation on the lesion to cause necrosis or functional changes of diseased tissue to achieve the purpose of treatment. Therefore, the GKT plan problem should be addressed to minimize the total dose passing through the human body, but must be enough to kill most lesions, while minimizing the dose of normal tissue exposure. This paper proposes a multi-group particle swarm optimization (MGPSO) algorithm with K-means gap filling (KGF) strategy to handle this problem. The MGPSO is adopted to find preliminary locations for Gamma knife shots. The KGF is used to find uncovered areas and fill them. The effectiveness of the MGPSO algorithm with the KGF strategy is verified by experiments on circular lesion areas by comparing with other algorithms."
+date: 2023-12-29
+venue: '2023 13th International Conference on Information Science and Technology (ICIST)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10367177'
+citation: 'D. -J. Zhan, W. -X. Shen, J. Hong, X. -X. Xu and Z. -H. Zhan, "Multi-group Particle Swarm Optimization with K-means Gap Filling for Finding Gamma Knife Treatment Plans," 2023 13th International Conference on Information Science and Technology (ICIST), Cairo, Egypt, 2023, pp. 151-156, doi: 10.1109/ICIST59754.2023.10367177.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
