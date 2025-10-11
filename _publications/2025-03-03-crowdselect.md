@@ -1,5 +1,5 @@
 ---
-title: "CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom"
+title: 'CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom'
 collection: publications
 category: conferences
 permalink: /publications/crowdselect
