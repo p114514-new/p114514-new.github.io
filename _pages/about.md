@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hi, there! :wave: This is Wenxuan Shen's homepage."
 author_profile: true
 redirect_from: 
   - /about/
