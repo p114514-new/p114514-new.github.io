@@ -7,7 +7,7 @@ excerpt: 'Retrieval-Augmented Generation (RAG) systems using Multimodal Large La
 date: 2025-08-05
 venue: 'AAAI 2026 Conference'
 status: 'Submitted to'
-paperurl: '[arxiv](https://arxiv.org/abs/2508.03644)'
+paperurl: 'https://arxiv.org/abs/2508.03644'
 sitelink: 'https://double-bench.github.io/'
 citation: 'Shen, W., Wang, M., Wang, Y., Chen, D., Yang, J., Wan, Y., & Lin, W. (2025). Are We on the Right Way for Assessing Document Retrieval-Augmented Generation?. arXiv preprint arXiv:2508.03644.'
 ---
