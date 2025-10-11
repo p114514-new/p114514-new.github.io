@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🏫-  I am currently a PhD student in [Advanced Computing Architecture Team](https://github.com/ACAT-SCUT), South China University of Technology(SCUT). I am also a senior member in [Oneslab](https://oneslab.github.io/) and [Entroplay Intelligence Lab](https://entroplay.ai/).
+🏫-  I am currently a PhD student in [Advanced Computing Architecture Team](https://github.com/ACAT-SCUT), South China University of Technology(SCUT). I am also a cofounder of [Entroplay Intelligence Lab](https://entroplay.ai/) and a senior member in [Oneslab](https://oneslab.github.io/).
 
 
 🔬-  My research is mostly about MLLMs. I am particularly interested in multimodal RAG, long-term memory agents, and world models.
