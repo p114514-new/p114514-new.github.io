@@ -7,7 +7,7 @@ excerpt: "Distilling advanced Large Language Models' instruction-following capab
 date: 2025-03-03
 venue: 'ARR 2026 October cycle'
 status: 'Submitted to'
-paperurl: 'https://arxiv.org/abs/2508.03644'
+paperurl: 'https://arxiv.org/abs/2503.01836'
 sitelink: 'https://github.com/listentm/crowdselect'
 citation: 'Li, Y., Yang, L., Shen, W., Zhou, P., Wan, Y., Lin, W., & Chen, D. (2025). CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom. arXiv preprint arXiv:2503.01836.'
 ---
