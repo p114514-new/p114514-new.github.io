@@ -13,5 +13,5 @@ redirect_from:
 🔬-  My research is mostly about MLLMs. I am particularly interested in multimodal RAG, long-term memory agents, and world models.
 
 
-📫-  I am looking to collaborate on high impact research ideas that would provide foundational insights or resources for the research community. Feel free to reach out to my [gmail](peter20030725@gmail.com).
+📫-  I am looking to collaborate on high impact research ideas that would provide foundational insights or resources for the research community. Feel free to reach out to my mail: peter20030725 [at] gmail [dot] com.
 
